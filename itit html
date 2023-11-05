@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Shakhzod Khodjaev</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>About Shakhzod Khodjaev</h1>
+    <p>My name is Shakhzod and I am 18 years old. I like <b>hacking, music </b>and <b>playing games. </b></p>
+    <hr>
+    <h2>My classes</h2>
+    <ul>
+        <li>Calculus 1</li>
+        <li>Intro to IT</li>
+        <li>Physics 1</li>
+    </ul>
+    <h2>My favourite movies</h2>
+    <ol>
+        <li>Lords of the Chaos <a href="https://www.imdb.com/title/tt4669296/">(IMDB)</a></li>
+        <li>IT <a href="https://www.imdb.com/title/tt1396484/">(IMDB)</a></li>
+        <li>Transformers <a href="https://www.kinopoisk.ru/film/937438/">(IMDB)</a></li>
+    </ol>
+    <h2>My moods</h2>
+    <p>Happy: </p><img src="data:image/png;base64,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" alt=""><br>
+    <p>Sad: </p><img src="https://i.ytimg.com/vi/sbFbvcKhUDE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLClgx4nEVY4VDkjfJKh9eXEx6-pSQ" alt="">
+    <h2>Fun facts about my neighboours</h2>
+    <ul>
+        <li>i dont know them at all</li>
+        <li>they exist?</li>
+    </ul>
+
+</body>
+</html>
